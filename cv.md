@@ -11,13 +11,13 @@
 I work as a system administrator in a small organization. My work has taught me to quickly learn something new and now I want to change the field of activity to become a developer.
 
 ***
-####Skills:
+#### Skills:
 * HTML
 * JavaScript(basic)
 * Git/GitHub
 
 ***
-####Code example:
+#### Code example:
 ```
 function multiply(a, b){
   return a * b
@@ -25,12 +25,12 @@ function multiply(a, b){
 ```
 
 ***
-####Work expirience:
+#### Work expirience:
 _Nothing yet..._
 
 ***
 
-####Education:
+#### Education:
 * **Belarusian State University of Informatics and Radioelectronics**
     * Information technology software
 * **Courses:**
@@ -39,6 +39,6 @@ _Nothing yet..._
     * [RS Schools](https://rs.school/) Course "JavaScript/Front-end. Stage 0" (in progress)
 
 ***
-####Languages:
+#### Languages:
 * Russian - Native
 * English - A2
